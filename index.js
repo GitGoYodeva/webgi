@@ -185,3 +185,4 @@ async function initViewer(viewer, container, webgiurl, webgicontainer){
   window.setupIcon = (wrapperel)=>{
           initIcon(wrapperel);
   }
+  console.log('dfdfdf')
